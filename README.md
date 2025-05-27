@@ -48,9 +48,11 @@ I aim to **secure, optimize, and automate** cloud environments for agility, resi
 
 ## 🔧 Top Skills
 - Multi-Cloud Infrastructure (Azure, AWS, GCP)  
-- Kubernetes  
-- Generative AI  
+- Kubernetes
+- Cloud DevSecOps Automation  
+- Microsoft Defender for cloud, SIEM, SOAR, CSPM, CWAP,EDR, XDR, IAM, Entra ID, Zero Trust Architecture principles
+- Cyber Security Best practices (NIST, ISO, CSA, HIPPA, GDPR ..etc)
 - Cloud & Application Security  
 
 
-## My Github stats
+
