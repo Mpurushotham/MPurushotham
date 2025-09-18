@@ -55,4 +55,20 @@ I aim to **secure, optimize, and automate** cloud environments for agility, resi
 - Cloud & Application Security  
 
 
+# Example Azure Cloud - Designed Solutions 
+ 
+   * 1. VMware Virtual servers Lift and Shift to Azure migrate
+   * 2. Azure DevSecOps solution design for various use cases
+
+>[!TIP]
+> These can be used for reference purposes; real environments could vary case by case.
+
+
+
+<img width="1859" height="927" alt="Screenshot 2025-09-18 at 16 24 04" src="https://github.com/user-attachments/assets/49102bd2-bc47-4c23-bdd8-14cf0a6fe365" />
+
+<img width="1878" height="915" alt="Screenshot 2025-09-18 at 16 28 00" src="https://github.com/user-attachments/assets/e314ee53-9555-4444-8fa1-8bcf5bec8fc7" />
+
+
+## 👨‍💻 :) THANK YOU FOR VISITING MY ACCOUNT.
 
