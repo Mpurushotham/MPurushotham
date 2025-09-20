@@ -1,6 +1,6 @@
 # Hi! 👋, I'm Muktha Purushotham
 
-I'm a Cloud, DevSecOps & CyberSecurity Professional at <XYZ company> in Gothenburg, Sweden. Born and raised in Tirupati, India. I moved down to Bangalore, India after college to start my IT career. Since 2016, living and working in Sweden.
+I'm a Cloud, DevSecOps & CyberSecurity Professional at (XYZ company) in Gothenburg, Sweden. Born and raised in Tirupati, India. I moved down to Bangalore, India after college to start my IT career. Since 2016, living and working in Sweden.
 🚀 **Results-driven Cloud, DevSecOps Automation & Cyber Security Professional** with **14+ years** of experience designing, securing, and optimizing enterprise cloud solutions across **Azure, AWS, and GCP**. Proven ability to translate business needs into **scalable, resilient, and compliant architectures**, ensuring operational excellence and regulatory alignment.
 Passionate about **Zero Trust**, **DevSecOps automation**, and **AI-driven security** to enhance cloud security posture and mitigate evolving cyber threats.
 **9+ years of international experience** across **UEA and Nordics, Europe**, I have successfully led cloud transformations in **Retail, Telecom, and Automotive industries**, ensuring compliance, cost efficiency, and automation.
