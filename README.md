@@ -27,52 +27,41 @@ Check out my legitimate certification badges in the [Certifications](#) section.
 
 ---
 
+## 🌩️ Cloud & Infra Stack
+      ☁️ Cloud Providers
+         Azure, AWS & GCP
+
+## 📦 Containerization & Orchestration
+      Docker, Kubernetes, Istio
+
+## ⚙️ DevOps & Automation
+      Terraform, Ansible & ArgoCD
+
+## 🛡 Observability & Security
+      Prometheus, Grafana & ELK Stack
+----
+
+# 🔥 What I Do
+
+      💾 Platform Engineering - Architecting highly available & secure platforms
+      🚀 CI/CD Pipelines - DevSecOps Automating deployments with GitOps & Kubernetes
+      🌍 Cloud Infrastructure - Building multi-cloud setups with IaC (Terraform, Pulumi)
+      🔬 Observability - Keeping systems reliable & scalable with Prometheus, ELK, and OpenTelemetry
+      🛡 Cloud Security - Microsoft Defender for cloud, SIEM, SOAR, CSPM, CWAP, EDR, XDR, IAM, Entra ID, Zero Trust Architecture principles 
+      🕵️ Site Reliability Engineering (SRE) - Ensuring resilient & self-healing systems
+
+
 ## 🌍 Seeking Opportunities
 🔹 Looking for **100% remote or hybrid positions** that align with my philosophy  
 🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in team collaboration, continuous improvement, and innovation to achieve business value. 
 🔹 I aim to **secure, optimize, and automate** cloud environments for agility, resilience, and long-term success.
 
 
-💬 Let’s connect and discuss how we can together make the change.
-
----
-
-## 🔧 Top Skills
-- Multi-Cloud Infrastructure (Azure, AWS, GCP)  
-- Kubernetes
-- Cloud DevSecOps Automation  
-- Microsoft Defender for cloud, SIEM, SOAR, CSPM, CWAP,EDR, XDR, IAM, Entra ID, Zero Trust Architecture principles
-- Cyber Security Best practices (NIST, ISO, CSA, HIPPA, GDPR ..etc)
-- Cloud & Application Security
-
-
-
-🌩️ Cloud & Infra Stack
-☁️ Cloud Providers
-AWS GCP Azure
-
-📦 Containerization & Orchestration
-Docker Kubernetes Istio
-
-⚙️ DevOps & Automation
-Terraform Ansible ArgoCD
-
-🛡 Observability & Security
-Prometheus Grafana ELK Stack
-----
-🔥 What I Do
-💾 Platform Engineering - Architecting highly available & secure platforms
-🚀 CI/CD Pipelines - Automating deployments with GitOps & Kubernetes
-🌍 Cloud Infrastructure - Building multi-cloud setups with IaC (Terraform, Pulumi)
-🔬 Observability - Keeping systems reliable & scalable with Prometheus, ELK, and OpenTelemetry
-🛡 Cloud Security - Implementing zero-trust models, identity management, and threat detection
-🕵️ Site Reliability Engineering (SRE) - Ensuring resilient & self-healing systems
-
-
+💬 Let’s connect and discuss how we can work together to make the change.
 
 ----
 
-# Example Azure Cloud - Designed Solutions 
+### Example Azure Cloud - Designed Solutions 
     * 1. VMware Virtual servers Lift and Shift to Azure migrate
     * 2. Azure DevSecOps solution design for various use cases
 
@@ -86,5 +75,5 @@ These can be used for reference purposes; real environments may vary on a case-b
 <img width="1878" height="915" alt="Screenshot 2025-09-18 at 16 28 00" src="https://github.com/user-attachments/assets/e314ee53-9555-4444-8fa1-8bcf5bec8fc7" />
 
 
-## 👨‍💻 :) THANK YOU FOR VISITING MY ACCOUNT.
+👨‍💻 :) THANK YOU FOR VISITING MY ACCOUNT.
 
