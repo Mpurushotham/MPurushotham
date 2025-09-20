@@ -9,7 +9,7 @@ Passionate about **Zero Trust**, **DevSecOps automation**, and **AI-driven secur
 
 ### 📜 Certifications  
 Check out my legitimate certification badges in the [Certifications](#) section.
-[https://www.credly.com/users/purushotham.muktha](#)
+
 
 ---
 
