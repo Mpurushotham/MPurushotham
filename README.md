@@ -37,10 +37,10 @@ Check out my legitimate certification badges in the [Certifications](#) section.
 
 ## 🌍 Seeking Opportunities
 
-🔹 Looking for **100% remote or hybrid positions** that align with my philosophy:  
-A ** Unstoppable lifelong learner ** and **technology enthusiast**, I believe in **Team collaboration**, **continuous improvement** and **innovation** to drive business value. 
+🔹 Looking for **100% remote or hybrid positions** that align with my philosophy  
+🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in team collaboration, continuous improvement, and innovation to achieve business value. 
+🔹 I aim to **secure, optimize, and automate** cloud environments for agility, resilience, and long-term success.
 
-I aim to **secure, optimize, and automate** cloud environments for agility, resilience, and long-term success.
 
 💬 Let’s connect and discuss how we can together make the change**!
 
