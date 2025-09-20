@@ -5,22 +5,17 @@ I'm a Cloud, DevSecOps & CyberSecurity Professional at (XYZ company) in Gothenbu
 Passionate about **Zero Trust**, **DevSecOps automation**, and **AI-driven security** to enhance cloud security posture and mitigate evolving cyber threats.
 **9+ years of international experience** across **UEA and Nordics, Europe**, I have successfully led cloud transformations in **Retail, Telecom, and Automotive industries**, ensuring compliance, cost efficiency, and automation.
 
----
-
 ## 🔐 Key Expertise
 
 ### 🔹 Cloud Security & Compliance  
 Architect secure multi-cloud environments, enforce Zero Trust, IAM, and least privilege access. Implement CSPM, CIEM, Microsoft Defender for Cloud, and Sentinel (SIEM) to enhance security monitoring and reduce critical findings by **X%**.
-
 ### 🔹 DevSecOps & Automation  
 Secure CI/CD pipelines using **Azure DevOps**, **GitHub Actions**, **Terraform**, and **Ansible**. Automate security governance, reducing manual compliance checks by **Y hours/week** using **Azure Policy**, **SOAR**, and **Logic Apps**.
-
 ### 🔹 Cloud Architecture & Networking  
 Design **high-availability (HA)** cloud solutions. Implement secure networking with **VNet**, **ExpressRoute**, **VPN**, and **Network Security Groups**. Enable **DDoS protection** with **WAF** and **Application Gateway**.
-
+Knowledge on Cloud Adoption Framework(CAF), Well-architecture Framework(WAF) and Azure Landing Zone(ALZ), Microsoft Azure Security Benchmark(MASB).
 ### 🔹 Cloud Migration & Optimization  
 Lead migration projects with **Azure Migrate** and **AWS Migration Hub**. Optimize cloud resource usage, achieving **Z% cost savings**. Develop **BCDR** strategies using **Azure Backup** and **ASR**.
-
 ### 🔹 Leadership & Collaboration  
 Work with **CISOs**, **Enterprise Architects**, and **SOCs** to strengthen cloud security. Conduct **risk assessments**, **compliance audits**, and mentor teams on **best practices**.
 
@@ -33,7 +28,6 @@ Check out my legitimate certification badges in the [Certifications](#) section.
 ---
 
 ## 🌍 Seeking Opportunities
-
 🔹 Looking for **100% remote or hybrid positions** that align with my philosophy  
 🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in team collaboration, continuous improvement, and innovation to achieve business value. 
 🔹 I aim to **secure, optimize, and automate** cloud environments for agility, resilience, and long-term success.
@@ -53,9 +47,8 @@ Check out my legitimate certification badges in the [Certifications](#) section.
 
 
 # Example Azure Cloud - Designed Solutions 
- 
-   * 1. VMware Virtual servers Lift and Shift to Azure migrate
-   * 2. Azure DevSecOps solution design for various use cases
+    * 1. VMware Virtual servers Lift and Shift to Azure migrate
+    * 2. Azure DevSecOps solution design for various use cases
 
 >[!TIP]
 These can be used for reference purposes; real environments may vary on a case-by-case basis.
