@@ -1,8 +1,8 @@
-# Hi 👋, I am Purushotham Muktha
+# Hi! 👋, I am Muktha Purushotham
 
-# 🌐 Cloud & Cyber Security Architect
+# 🌐 Cloud, DevSecOps & Cyber Security Professional
 
-🚀 **Results-driven Cloud & Cyber Security Architect** with **15+ years** of experience designing, securing, and optimizing enterprise cloud solutions across **Azure, AWS, and GCP**. Proven ability to translate business needs into **scalable, resilient, and compliant architectures**, ensuring operational excellence and regulatory alignment.
+🚀 **Results-driven Cloud, DevSecOps Automation & Cyber Security Professional** with **14+ years** of experience designing, securing, and optimizing enterprise cloud solutions across **Azure, AWS, and GCP**. Proven ability to translate business needs into **scalable, resilient, and compliant architectures**, ensuring operational excellence and regulatory alignment.
 
 Passionate about **Zero Trust**, **DevSecOps automation**, and **AI-driven security** to enhance cloud security posture and mitigate evolving cyber threats.
 
@@ -38,11 +38,11 @@ Check out my legitimate certification badges in the [Certifications](#) section.
 ## 🌍 Seeking Opportunities
 
 🔹 Looking for **100% remote or hybrid positions** that align with my philosophy:  
-A **lifelong learner** and **technology enthusiast**, I believe in **collaboration**, **continuous improvement**, and **innovation** to drive business value.
+A ** Unstoppable lifelong learner ** and **technology enthusiast**, I believe in **Team collaboration**, **continuous improvement** and **innovation** to drive business value. 
 
 I aim to **secure, optimize, and automate** cloud environments for agility, resilience, and long-term success.
 
-💬 Let’s connect and discuss how we can **secure the cloud for the future**!
+💬 Let’s connect and discuss how we can together make the change**!
 
 ---
 
@@ -61,7 +61,7 @@ I aim to **secure, optimize, and automate** cloud environments for agility, resi
    * 2. Azure DevSecOps solution design for various use cases
 
 >[!TIP]
-> These can be used for reference purposes; real environments could vary case by case.
+These can be used for reference purposes; real environments may vary on a case-by-case basis.
 
 
 
