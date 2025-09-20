@@ -43,8 +43,34 @@ Check out my legitimate certification badges in the [Certifications](#) section.
 - Cloud DevSecOps Automation  
 - Microsoft Defender for cloud, SIEM, SOAR, CSPM, CWAP,EDR, XDR, IAM, Entra ID, Zero Trust Architecture principles
 - Cyber Security Best practices (NIST, ISO, CSA, HIPPA, GDPR ..etc)
-- Cloud & Application Security  
+- Cloud & Application Security
 
+
+
+🌩️ Cloud & Infra Stack
+☁️ Cloud Providers
+AWS GCP Azure
+
+📦 Containerization & Orchestration
+Docker Kubernetes Istio
+
+⚙️ DevOps & Automation
+Terraform Ansible ArgoCD
+
+🛡 Observability & Security
+Prometheus Grafana ELK Stack
+----
+🔥 What I Do
+💾 Platform Engineering - Architecting highly available & secure platforms
+🚀 CI/CD Pipelines - Automating deployments with GitOps & Kubernetes
+🌍 Cloud Infrastructure - Building multi-cloud setups with IaC (Terraform, Pulumi)
+🔬 Observability - Keeping systems reliable & scalable with Prometheus, ELK, and OpenTelemetry
+🛡 Cloud Security - Implementing zero-trust models, identity management, and threat detection
+🕵️ Site Reliability Engineering (SRE) - Ensuring resilient & self-healing systems
+
+
+
+----
 
 # Example Azure Cloud - Designed Solutions 
     * 1. VMware Virtual servers Lift and Shift to Azure migrate
