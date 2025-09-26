@@ -52,9 +52,9 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 ---
 
 ## 🌍 Seeking Opportunities
-🔹 Looking for **100% remote or hybrid positions** that align with my philosophy  
-🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in **cross-teams collaboration that makes dream work and continuous improvement**
-🔹 I aim to **secure, optimize, cost savings and automate** cloud environments for agility, resilience, and long-term success for clients.
+    🔹 Looking for **100% remote or hybrid positions** that align with my philosophy  
+    🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in **cross-teams collaboration that makes dream work and continuous improvement**
+    🔹 I aim to **secure, optimize, cost savings and automate** cloud environments for agility, resilience, and long-term success for clients.
 
 ## 🤝 Let’s connect and make the change.
 
