@@ -39,7 +39,7 @@ Check out my legitimate certification badges in the [Certifications](#) section.
 🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in team collaboration, continuous improvement, and innovation to achieve business value.
 🔹 I aim to **secure, optimize, and automate** cloud environments for agility, resilience, and long-term success.
 
-# 💬  Let’s connect and discuss how we can work together to make the change.
+## 💬  Let’s connect and discuss how we can work together to make the change.
 
 ----
 
