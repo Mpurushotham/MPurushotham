@@ -1,14 +1,14 @@
-# Hi! 👋, I'm Muktha Purushotham
-
-I'm a Cloud, DevSecOps & CyberSecurity Professional at (XYZ company) in Gothenburg, Sweden. Born and raised in Tirupati, India. I moved down to Bangalore, India, after college to start my IT career. Since 2016, living and working in Sweden.
-Results-driven Cloud, DevSecOps Automation & Cyber Security Professional with 14+ years of experience designing, securing, and optimizing enterprise cloud solutions across **Azure, AWS, and GCP**. Proven ability to translate business needs into **scalable, resilient, and compliant architectures**, ensuring operational excellence and regulatory alignment.
-Passionate about **Zero Trust**, **DevSecOps automation**, and **AI-driven security** to enhance cloud security posture and mitigate evolving cyber threats.
-**9+ years of international experience** across **UEA and Nordics, Europe**, I have successfully led cloud transformations in **Retail, Telecom, and Automotive industries**, ensuring compliance, cost efficiency, and automation.
+<h1 align="center">🚀 Hi! 👋, I'm Muktha P | Cloud, DevSecOps and Cybersecurity Professional 🛠️</h1>
+<p align="center">
+ <b>Scaling Infra • Automating Everything • Architecting the Future</b>
+</p>
 
 ---
+🌎 **Cloud-Native. Secure. Scalable. Automated.**
 
-### 📜 Certifications  
-Check out my legitimate certification badges in the [Certifications](#) section.
+I specialize in designing cloud solutions **reliable, high-performance, and cloud-native platforms** with a strong focus on **DevSecOps automation, security, and scalability**.
+
+Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, or **securing cloud workloads**, I **build platforms that power the future for the customers**.
 
 ---
 ## 🌩️ Cloud & Infra Stack
@@ -37,21 +37,26 @@ Check out my legitimate certification badges in the [Certifications](#) section.
 
 # 🔥 What I Do
 
-      💾 **Cloud Platform Engineering** - Architecting highly available & secure platforms
-      🚀 CI/CD Pipelines - DevSecOps Automating deployments with GitOps & Kubernetes
-      🌍 Cloud Infrastructure - Building multi-cloud setups with IaC (Terraform, Pulumi)
-      🔬 Observability - Keeping systems reliable & scalable with Prometheus, ELK, and OpenTelemetry
-      🛡 Cloud Security - Microsoft Defender for cloud, CIEM, SIEM, Sentinel(SOAR), CSPM, CWAP, EDR, XDR, IAM/Entra ID, ZTA
-      🕵️ Site Reliability Engineering (SRE) - Ensuring resilient & self-healing systems
+💾 **Platform Engineering** - Architecting **highly available** & **secure** platforms  
+🚀 **CI/CD Pipelines** - Automating deployments with **GitOps & Kubernetes**  
+🌍 **Cloud Infrastructure** - Building multi-cloud setups with **IaC (Terraform, Pulumi)**  
+🔬 **Observability** - Keeping systems **reliable & scalable** with **Prometheus, ELK, and OpenTelemetry**  
+🛡 **Cloud Security** - Implementing **zero-trust models, Microsoft Defender for cloud, CIEM, SIEM, Sentinel(SOAR), CSPM, CWAP, EDR, XDR, IDS/IPS & IAM/Entra ID**  
+🕵️ **Site Reliability Engineering (SRE)** - Ensuring **resilient & self-healing systems**  
+
+----
+
+⏩ Check it out more at **[purushothammuktha.com](https://purushothammuktha.com//)** 🚀
+
+---
 
 
 ## 🌍 Seeking Opportunities
 🔹 Looking for **100% remote or hybrid positions** that align with my philosophy  
-🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in **team collaboration (which makes dream work), continuous improvement, and innovation to achieve business value.**
-🔹 I aim to **secure, optimize, cost savings and automate** cloud environments for agility, resilience, and long-term success.
+🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in **cross-teams collaboration that makes dream work and continuous improvement**
+🔹 I aim to **secure, optimize, cost savings and automate** cloud environments for agility, resilience, and long-term success for clients.
 
-⏩ More at **[purushothammuktha](https://purushothammuktha.com//)** 🚀
-💬  Let’s connect and discuss how we can work together to make the change.
+💬  Let’s connect and make the change.
 
 ----
 
