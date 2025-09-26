@@ -57,7 +57,15 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 🔹 Unstoppable life-long learner and **technology enthusiast**. I believe in **cross-teams collaboration that makes dream work and continuous improvement**
 🔹 I aim to **secure, optimize, cost savings and automate** cloud environments for agility, resilience, and long-term success for clients.
 
-💬  Let’s connect and make the change.
+## 🤝 Let’s connect and make the change.
+
+<p align="center">
+  <a href="https://purushothammuktha.com" target="_blank"><img src="https://img.shields.io/badge/Website-Binyam.io-%23000000?style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/mpurushotham" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:purushotham.muktha@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://wa.me/+46764561036" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp"></a>
+</p>
+
 
 ----
 
