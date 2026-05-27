@@ -1,5 +1,5 @@
-<h1 align="center"><br>🚀 Hi! 👋, I'm Muktha P </br>
- Cloud, DevSecOps and Cybersecurity Professional 🛠️</h1>
+<h1 align="center"><br>🚀 Hi! 👋, Welcome to my coding account. I'm Purushotham  </br>
+ Cloud Tech Professional 🛠️</h1>
 <p align="center">
  <b>Scaling Infra • Automating Everything • Architecting the Future</b>
 </p>
@@ -8,7 +8,7 @@
 🌎 **Cloud-Native. Secure. Scalable. Automated.**
 
 I specialize in designing cloud solutions **reliable, high-performance, and cloud-native platforms** with a strong focus on **DevSecOps automation, security, and scalability**.
-
+I have hands-on experience with Claude Code Agentic automation workflows, MCP, and AI-assisted vibe coding for projects, certified and implemented for dev teams.
 Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, or **securing cloud workloads**, I **build platforms that power the future for the customers**.
 
 ---
@@ -16,14 +16,14 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 
 ☁️ **Cloud Providers**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 📦 **Containerization & Orchestration**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-
+![EKS, AKS, ECS](EKS, AKS, ECS)
 ⚙️ **DevOps & Automation**  
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -33,21 +33,23 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![OpenTelemetry]
+
 
 ---
 
 # 🔥 What I Do
 
 💾 **Platform Engineering** - Architecting **highly available** & **secure** platforms  
-🚀 **CI/CD Pipelines** - Automating deployments with **GitOps & Kubernetes**  
-🌍 **Cloud Infrastructure** - Building multi-cloud setups with **IaC (Terraform, Pulumi)**  
+🚀 **CI/CD Pipelines/GitHub Actions** - Automating deployments with **GitOps & Kubernetes**  
+🌍 **Cloud Infrastructure** - Building multi-cloud setups with **IaC (Terraform, Pulumi, aws-cdk stacks)**  
 🔬 **Observability** - Keeping systems **reliable & scalable** with **Prometheus, ELK, and OpenTelemetry**  
 🛡 **Cloud Security** - Implementing **zero-trust models, Microsoft Defender for cloud, CIEM, SIEM, Sentinel(SOAR), CSPM, CWAP, EDR, XDR, IDS/IPS & IAM/Entra ID**  
 🕵️ **Site Reliability Engineering (SRE)** - Ensuring **resilient & self-healing systems**  
 
 ----
 
-**⏩ Check it out more at **[purushothammuktha.com](https://purushothammuktha.com//)** 🚀
+**⏩ Check it out more at my personal portfolio site **[purushothammuktha.com](https://purushothammuktha.com//)** 🚀
 
 ---
 
@@ -69,4 +71,4 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 ----
 
 
-👨‍💻 :) THANK YOU FOR VISITING MY ACCOUNT.
+👨‍💻 :) THANK YOU FOR VISITING MY CODING ACCOUNT.
