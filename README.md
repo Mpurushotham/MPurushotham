@@ -1,4 +1,5 @@
-<h1 align="center"><br>🚀 Hi! 👋, Welcome to my coding account. I'm Purushotham  </br>
+<h1 align="center"><br>🚀 Hi! 👋, Welcome to my coding account. 
+ I'm Purushotham  </br>
  Cloud Tech Professional 🛠️</h1>
 <p align="center">
  <b>Scaling Infra • Automating Everything • Architecting the Future</b>
@@ -14,7 +15,7 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 ---
 ## 🌩️ Cloud & Infra Stack
 
-☁️ **Cloud Providers**  
+☁️ **Cloud Platforms**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -23,8 +24,9 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=istio&logoColor=white)
-![EKS, AKS, ECS](EKS, AKS, ECS)
-⚙️ **DevOps & Automation**  
+
+
+⚙️ **IaC Automation**  
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FD7E14?style=for-the-badge&logo=argo&logoColor=white)
@@ -33,7 +35,7 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![OpenTelemetry]
+
 
 
 ---
