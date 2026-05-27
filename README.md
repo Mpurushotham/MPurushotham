@@ -9,7 +9,9 @@
 🌎 **Cloud-Native. Secure. Scalable. Automated.**
 
 I specialize in designing cloud solutions **reliable, high-performance, and cloud-native platforms** with a strong focus on **DevSecOps automation, security, and scalability**.
+
 I have hands-on experience with Claude Code Agentic automation workflows, MCP, and AI-assisted vibe coding for projects, certified and implemented for dev teams.
+
 Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, or **securing cloud workloads**, I **build platforms that power the future for the customers**.
 
 ---
