@@ -46,7 +46,7 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 🚀 **CI/CD Pipelines/GitHub Actions** - Automating deployments with **GitOps & Kubernetes**  
 🌍 **Cloud Infrastructure** - Building multi-cloud setups with **IaC (Terraform, Pulumi, aws-cdk stacks)**  
 🔬 **Observability** - Keeping systems **reliable & scalable** with **Prometheus, ELK, and OpenTelemetry**  
-🛡 **Cloud Security** - Implementing **zero-trust models, Microsoft Defender for cloud, CIEM, SIEM, Sentinel(SOAR), CSPM, CWAP, EDR, XDR, IDS/IPS & IAM/Entra ID**  
+🛡 **Cloud Security** - Implementing **zero-trust Principles, AWS Security Hub, DevSecOps, Microsoft Defender for Cloud, CIEM, SIEM, Sentinel(SOAR), CSPM, CWAP, EDR, XDR, IDS/IPS & IAM/Entra ID**  
 🕵️ **Site Reliability Engineering (SRE)** - Ensuring **resilient & self-healing systems**  
 
 ----
