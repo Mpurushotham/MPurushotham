@@ -1,8 +1,8 @@
 <h1 align="center"><br>🚀 Hi! 👋, Welcome to my coding account. 
- I'm Purushotham  </br>
- Cloud Tech Professional 🛠️</h1>
+ I'm Purushotham (Puru)  </br>
+ Tech Professional 🛠️</h1>
 <p align="center">
- <b>Scaling Infra • Automating Everything • Architecting the Future</b>
+ <b> AI : Scaling Infra • Automating & Enabling Security • Design & Build with Engineering Capabilities</b>
 </p>
 
 ---
@@ -10,7 +10,7 @@
 
 I specialize in designing cloud solutions **reliable, high-performance, and cloud-native platforms** with a strong focus on **DevSecOps automation, security, and scalability**.
 
-I have hands-on experience with Claude Code Agentic automation workflows, MCP, and AI-assisted vibe coding for projects, certified and implemented for dev teams.
+I have hands-on experience with Claude Code Agentic automation workflows, MCP, and AI-assisted vibe coding for projects, certified and implemented for product dev teams.
 
 Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, or **securing cloud workloads**, I **build platforms that power the future for the customers**.
 
@@ -45,7 +45,7 @@ Whether it's **deploying Kubernetes clusters**, **optimizing CI/CD pipelines**, 
 # 🔥 What I Do
 
 💾 **Platform Engineering** - Architecting **highly available** & **secure** platforms  
-🚀 **CI/CD Pipelines/GitHub Actions** - Automating deployments with **GitOps & Kubernetes**  
+🚀 **CI/CD Pipelines/GitHub Actions** - Automating deployments with **GitOps & Kubernetes**Embedding SEcurity Controls** 
 🌍 **Cloud Infrastructure** - Building multi-cloud setups with **IaC (Terraform, Pulumi, aws-cdk stacks)**  
 🔬 **Observability** - Keeping systems **reliable & scalable** with **Prometheus, ELK, and OpenTelemetry**  
 🛡 **Cloud Security** - Implementing **zero-trust Principles, AWS Security Hub, DevSecOps, Microsoft Defender for Cloud, CIEM, SIEM, Sentinel(SOAR), CSPM, CWAP, EDR, XDR, IDS/IPS & IAM/Entra ID**  
